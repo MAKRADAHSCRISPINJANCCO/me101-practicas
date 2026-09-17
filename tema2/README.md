@@ -1,0 +1,1 @@
+En esta carpeta dejamos un par de scripts sencillos para probar que los entornos estén bien configurados antes de arrancar. Por un lado hay un script .R para ejecutar en RStudio (solo necesitas tener instalado tidyverse) y por otro un notebook .ipynb para correr en Jupyter sobre un entorno de Conda con Python 3, pandas y numpy.
