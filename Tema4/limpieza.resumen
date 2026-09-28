@@ -1,0 +1,6 @@
+Resumen del proceso de limpieza de datos (Tema 4)
+a) Filas del dataset original: El archivo inicial de estudiantes contenía un total de 6 filas (registros).
+(b) Filas tras la limpieza: Una vez filtrados los datos faltantes, el dataset final quedó reducido a 4 filas.
+(c) Tratamiento de valores faltantes por columna:
+Columna nota: Tenía 2 valores faltantes. En este caso opté por la eliminación de las filas incompletas, ya que la calificación es una variable académica principal y rellenarla sintéticamente alteraría la nota real del estudiante.
+Columna asistencia_pct: Tenía 1 valor faltante. Para esta variable opté por la imputación, sustituyendo el dato ausente por el promedio global de asistencia de la columna, evitando así desechar un registro útil completo.
