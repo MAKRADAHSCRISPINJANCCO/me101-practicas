@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Mi cuarto - Plazoleta Santa Ana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.985582,
+                    -13.514673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "UNSAAC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.958611,
+                    -13.521667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Urcos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.625278,
+                    -13.687778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "nombre": "Ocongate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.385278,
+                    -13.623333
+                ]
+            }
+        }
+    ]
+}
